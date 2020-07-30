@@ -1,0 +1,20 @@
+//
+//  PrefixHeader.pch
+//  Swift-OC
+//
+//  Created by Muyuli on 2019/8/27.
+//  Copyright © 2019 Muyuli. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+#import "Swift_OC-Swift.h"//OC类中使用Swift文件的桥，在创建Swift文件的时候，自动生成，隐藏文件，项目文件夹内不可见
+
+
+
+#endif /* PrefixHeader_pch */

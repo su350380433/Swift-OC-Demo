@@ -1,0 +1,61 @@
+PODS:
+  - Alamofire (4.9.1)
+  - HandyJSON (5.0.2)
+  - Kingfisher (4.10.1)
+  - lottie-ios (3.1.8)
+  - Masonry (1.1.0)
+  - Moya (13.0.1):
+    - Moya/Core (= 13.0.1)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - MYLCommonUI (0.0.11):
+    - MYLCommonUI/Components (= 0.0.11)
+    - MYLCommonUI/Utils (= 0.0.11)
+  - MYLCommonUI/Components (0.0.11):
+    - MYLCommonUI/Utils
+  - MYLCommonUI/Utils (0.0.11)
+  - Result (4.1.0)
+  - SnapKit (4.2.0)
+  - Toast (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - HandyJSON
+  - Kingfisher
+  - lottie-ios
+  - Masonry
+  - Moya
+  - MYLCommonUI (~> 0.0.11)
+  - SnapKit
+  - Toast
+
+SPEC REPOS:
+  https://cdn.cocoapods.org/:
+    - lottie-ios
+  https://gitlab.meiyou.com/Youbaobao/binary_spec_dev.git:
+    - Alamofire
+    - HandyJSON
+    - Kingfisher
+    - Masonry
+    - Moya
+    - MYLCommonUI
+    - Result
+    - SnapKit
+    - Toast
+
+SPEC CHECKSUMS:
+  Alamofire: b3297e90e5430c8c236cdc826e27990a98bb45d0
+  HandyJSON: 711661eff0a6a9428e40f5bec92b73dfe5ab668d
+  Kingfisher: 22d223bf19bcd26e5970ebf4283a99a3b86c0d23
+  lottie-ios: 48fac6be217c76937e36e340e2d09cf7b10b7f5f
+  Masonry: 3c04dae4df1de1af02e19134d3d4a1e032fd5202
+  Moya: 8a6e33ebbd6186b82829577b584a4c6f65afd304
+  MYLCommonUI: 9a177b2484ea35ea219764e31c681a175709ea4b
+  Result: 1a5d1068e8e2b6a3b4cf41eb141495ce94356929
+  SnapKit: 190f70f8acfea4e1c0d3109554d518f07f0efb46
+  Toast: 0a9d33253c8623d06dfe2d54af5a0d51321d636d
+
+PODFILE CHECKSUM: 5306d70385474f55c825d8f6c01b122dc56737e2
+
+COCOAPODS: 1.9.1
