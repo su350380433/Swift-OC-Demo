@@ -1,5 +1,5 @@
-plugin 'cocoapods-imy-bin'
-use_binaries!
+#plugin 'cocoapods-imy-bin'
+#use_binaries!
 #set_use_source_pods ['Moya','SnapKit']
 
 

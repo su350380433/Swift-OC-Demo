@@ -9,7 +9,7 @@
 #import "HomeViewController.h"
 #import <Masonry/Masonry.h>
 
-#import <Lottie/Lottie-Swift.h>
+#import "Lottie-Swift.h"
 
 @interface HomeViewController ()
 

@@ -32,11 +32,10 @@ DEPENDENCIES:
 
 SPEC REPOS:
   https://cdn.cocoapods.org/:
-    - lottie-ios
-  https://gitlab.meiyou.com/Youbaobao/binary_spec_dev.git:
     - Alamofire
     - HandyJSON
     - Kingfisher
+    - lottie-ios
     - Masonry
     - Moya
     - MYLCommonUI
@@ -45,17 +44,17 @@ SPEC REPOS:
     - Toast
 
 SPEC CHECKSUMS:
-  Alamofire: b3297e90e5430c8c236cdc826e27990a98bb45d0
-  HandyJSON: 711661eff0a6a9428e40f5bec92b73dfe5ab668d
-  Kingfisher: 22d223bf19bcd26e5970ebf4283a99a3b86c0d23
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
   lottie-ios: 48fac6be217c76937e36e340e2d09cf7b10b7f5f
-  Masonry: 3c04dae4df1de1af02e19134d3d4a1e032fd5202
-  Moya: 8a6e33ebbd6186b82829577b584a4c6f65afd304
-  MYLCommonUI: 9a177b2484ea35ea219764e31c681a175709ea4b
-  Result: 1a5d1068e8e2b6a3b4cf41eb141495ce94356929
-  SnapKit: 190f70f8acfea4e1c0d3109554d518f07f0efb46
-  Toast: 0a9d33253c8623d06dfe2d54af5a0d51321d636d
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  MYLCommonUI: 265616958852baeaf497e4ad6f1413d6c24a30c8
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
 
-PODFILE CHECKSUM: 5306d70385474f55c825d8f6c01b122dc56737e2
+PODFILE CHECKSUM: c109c08c13ab806738e22c0b5b7ded5ecc9f92b8
 
 COCOAPODS: 1.9.1
